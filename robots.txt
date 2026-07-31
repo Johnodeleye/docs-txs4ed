@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-asexoc.gulfgottalents.com/sitemap.xml
